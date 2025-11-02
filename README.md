@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Welcome to your Expo app 👋
+[![Ver video](https://img.youtube.com/vi/srblIvsJmo0/hqdefault.jpg)](https://youtu.be/srblIvsJmo0)
 
-[![](https://markdown-videos.deta.dev/youtube/srblIvsJmo0)](https://youtu.be/srblIvsJmo0)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
