@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # Welcome to your Expo app 👋
+# como crear nuestra app con react native
 [![Ver video](https://img.youtube.com/vi/srblIvsJmo0/hqdefault.jpg)](https://youtu.be/srblIvsJmo0)
 
 
