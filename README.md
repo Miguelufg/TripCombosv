@@ -3,6 +3,9 @@
 # como crear nuestra app con react native
 [![Ver video](https://img.youtube.com/vi/srblIvsJmo0/hqdefault.jpg)](https://youtu.be/srblIvsJmo0)
 
+# ver nuestra app en nuestro celular con expo go y prueba 
+[![Ver video](https://img.youtube.com/vi/6Wm9RsQtD3w/hqdefault.jpg)](https://youtu.be/6Wm9RsQtD3w)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
